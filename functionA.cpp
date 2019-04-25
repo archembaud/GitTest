@@ -2,7 +2,7 @@
 #include "functionA.h"
 
 int functionA(int input) {
-
-	return 1.0;
+	// Modified for new commit
+	return 5;
 
 }
