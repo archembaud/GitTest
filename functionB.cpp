@@ -2,7 +2,7 @@
 #include "functionB.h"
 
 int functionB(int input) {
-
-	return 2.0;
+	// Modified to return an integer, 7
+	return 7;
 
 }
