@@ -1,0 +1,4 @@
+
+int functionA(int input);
+
+
